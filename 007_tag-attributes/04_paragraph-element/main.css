@@ -1,5 +1,12 @@
 .happiness {
     color: red;
-    font-size: 400px;
+    font-size: 100px;
     margin-left: 400px;
+}
+.chips {
+  color: green;
+  font-size: 100px;
+  font-style: italic;
+  font-family: fantasy;
+  margin-left: 400px;
 }
