@@ -1,0 +1,26 @@
+div {
+  height: 100px;
+  width: 100px;
+  border: 1px solid red;
+  border-radius: 100px;
+  background-image: url(/Users/creed/Desktop/Test/html-css-bootcamp/009_absolute-urls/puppy.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+img {
+  border: 20px groove cyan;
+  border-radius: 200px;
+}
+.dog1 {
+  border: 20px dashed blue;
+  border-radius: 100px;
+}
+.dog2 {
+  border: 20px dotted red;
+  border-radius: 100px;
+}
+.dog3 {
+  border: 20px double orange;
+  border-radius: 100px;
+}
