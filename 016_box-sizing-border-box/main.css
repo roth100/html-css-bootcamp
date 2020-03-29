@@ -1,0 +1,28 @@
+div {
+  height: 100px;
+  width: 100px;
+  border: 1px solid red;
+  border-radius: 100px;
+  display:inline-block;
+
+}
+
+img {
+  width: 100px;
+  border: 5px groove cyan;
+  box-sizing: border-box;
+  padding: 5px
+
+}
+.dog1 {
+  border: 5px dashed blue;
+
+}
+.dog2 {
+  border: 5px dotted red;
+
+}
+.dog3 {
+  border: 5px double orange;
+
+}
