@@ -1,0 +1,19 @@
+body {
+  font-size: 36px;
+  text-align: center;
+  border: 2px solid black;
+
+}
+/* to create LVHA need to be in order and one by one. cant put them in same brackets */
+a:link {
+  color: black;
+}
+a:visited {
+  color:red;
+}
+a:hover {
+  color:lightblue;
+}
+a:active {
+  color:green;
+}

@@ -1,0 +1,14 @@
+body {
+  font-size: 25px
+  color:green;
+}
+
+li:first-child {
+  color: red;
+}
+a:link {
+  color: red;
+}
+a:hover {
+  color: blue;
+}

@@ -1,0 +1,18 @@
+
+
+div {
+
+  border-style: solid;
+  color: red;
+  width: 100px;
+
+}
+a {
+  color: green;
+}
+a:focus {
+  font-size: 25px;
+  padding-left: 10px
+  color: red;
+
+}

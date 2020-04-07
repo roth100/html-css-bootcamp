@@ -1,0 +1,11 @@
+div {
+  height: 40px;
+  width: 40px;
+  background-color: red;
+  display: inline-block;
+
+}
+div:hover {
+  background-color: green;
+  cursor: pointer;
+}
