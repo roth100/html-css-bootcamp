@@ -1,0 +1,16 @@
+body {
+  font-size: 26px;
+  padding: 20px
+}
+
+div p {
+  font-weight: bold;
+}
+div p::first-line {
+  color: red;
+
+}
+div p::first-letter {
+  color:red;
+  font-size: 30px;
+}
