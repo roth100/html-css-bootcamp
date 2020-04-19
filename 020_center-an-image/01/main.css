@@ -4,7 +4,8 @@
 
 div {
     height: 200px;
-    border: 5px solid black;
+    border: 2px solid black;
+    padding: 10px;
 }
 
 img {
@@ -12,4 +13,10 @@ img {
     margin: 0 auto;
     border: 10px groove orange;
     padding: 10px;
+}
+span {
+    display: block;
+  margin: 0 auto;
+  border: 5px groove red;
+  text-align: center;
 }

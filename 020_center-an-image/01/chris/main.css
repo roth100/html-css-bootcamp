@@ -1,0 +1,26 @@
+.headertitle {
+  border: 2px solid;
+  display: block;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+}
+
+.image {
+  margin:0;
+  border: solid;
+  color: white;
+
+
+}
+img {
+  display: block;
+  margin: 0 auto;
+  border: solid;
+  color: red;
+  border-radius: 50px;
+}
+
+.paragraph {
+  margin: 20px;
+}
