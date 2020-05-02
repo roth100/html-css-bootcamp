@@ -1,0 +1,14 @@
+div #massivetag{
+  color:grey;
+}
+
+li .bigtag {
+  color: red;
+}
+
+li {
+  color: green;
+}
+li#massivetag {
+  color: blue;
+}
