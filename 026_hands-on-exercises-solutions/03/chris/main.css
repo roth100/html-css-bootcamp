@@ -1,0 +1,25 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-indent: 1.5rem;
+  text-align: center;
+  max-width: 30rem;
+  padding: 40px;
+  box-sizing: border-box;
+}
+
+#light {
+  font-weight: 200;
+}
+
+#bold {
+  font-weight: 600;
+}
+
+p::first-letter {
+
+  color: red;
+}
+
+p::first-line {
+  color: red;
+}

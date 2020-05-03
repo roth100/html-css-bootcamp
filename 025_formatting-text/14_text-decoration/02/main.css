@@ -1,5 +1,5 @@
 html {
-    font-size: 15rem;
+    font-size: 1.5rem;
 }
 
 p {
@@ -8,7 +8,7 @@ p {
     text-decoration: line-through underline overline;
 
     /* these didn't work for me*/
-    /*text-decoration-line: underline;*/
-    /*text-decoration-color: darkgreen;*/
-    /*text-decoration-style: wavy;*/
+    text-decoration-line: underline;
+    text-decoration-color: darkgreen;
+    text-decoration-style: wavy;
 }
