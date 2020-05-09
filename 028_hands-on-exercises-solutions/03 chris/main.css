@@ -1,0 +1,17 @@
+header {
+  border-style: double;
+}
+section {
+  border-style: solid;
+  margin: 10px;
+}
+article {
+  /* border-style: solid; */
+  font-style: italic;
+  margin-left: 10px;
+}
+aside {
+  border-style: solid;
+  padding: 20px;
+  margin: 10px;
+}

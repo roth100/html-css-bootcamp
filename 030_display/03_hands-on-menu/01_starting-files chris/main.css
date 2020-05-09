@@ -1,0 +1,29 @@
+* {
+?
+}
+
+html {
+    font-size: 2rem;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    /* border: 2px solid red; */
+    border-radius: 50px;
+    display: inline-block;
+    margin: 3px;
+}
+a {
+  text-decoration: none;
+  border-radius: 50px;
+  border: solid 2px black;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+a:hover{
+  background-color: lightgreen;
+}
