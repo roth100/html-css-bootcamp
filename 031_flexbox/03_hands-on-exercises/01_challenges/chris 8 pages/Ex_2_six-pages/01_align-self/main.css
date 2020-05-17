@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  height: 500px;
+  border: dashed hotpink 2px;
+}
+
+div {
+border: solid 2px red;
+width: 200px;
+height: 100px;
+background-color: grey;
+text-align: center;
+font-family: sans-serif;
+color: white;
+margin: 2px;
+}
+
+.otras {
+  align-self: flex-end;
+}

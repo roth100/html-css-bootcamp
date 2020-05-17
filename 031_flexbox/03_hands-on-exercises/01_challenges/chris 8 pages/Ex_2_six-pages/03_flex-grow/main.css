@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  height: 500px;
+  border: dashed hotpink 2px;
+  flex-flow: row nowrap;
+
+}
+
+div {
+border: solid 2px red;
+/* width: 200px; */
+height: 100px;
+background-color: grey;
+text-align: center;
+font-family: sans-serif;
+color: white;
+margin: 2px;
+
+}
+ .g1 {
+   flex-grow: 2;
+ }
+ .g4 {
+   flex-grow: 1;
+ }

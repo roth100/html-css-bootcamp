@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  flex-flow: row wrap;
+  border: red solid 5px;
+  padding: 10px;
+
+}
+
+div {
+flex-basis: 200px;
+flex-grow: 1;
+  border: solid red 2px;
+  width: 150px;
+  height: 30px;
+  text-align: center;
+  margin: 10px;
+  background-color: lightblue;
+
+}
