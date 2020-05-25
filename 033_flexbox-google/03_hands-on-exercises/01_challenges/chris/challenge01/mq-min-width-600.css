@@ -1,0 +1,21 @@
+div {
+  text-align: left;
+}
+
+.d1, .d7 {
+  width: 100%;
+}
+.d2, .d3 {
+  width: 50%;
+}
+.d4, .d5, .d6 {
+  width: 33.33%;
+  order: 2;
+}
+
+.d1 {
+  order: 3;
+}
+.d7 {
+  order: 1;
+}

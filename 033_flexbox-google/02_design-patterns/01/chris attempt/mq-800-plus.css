@@ -1,0 +1,12 @@
+body {
+  max-width: 800px;
+}
+.d1 {
+  width: 60%;
+}
+.d2 {
+  width: 40%
+}
+.d3, .d4, .d5 {
+  width: 33.33%;
+}

@@ -1,0 +1,26 @@
+div {
+  text-align: left;
+}
+
+div:nth-child(3), div:nth-child(4) {
+    width: 50%;
+    order: 3; }
+
+.d1, {
+  width: 100%;
+  order: 7;
+}
+.d2, .d4 {
+  width: 20%;
+}
+.d3 {
+  width: 60%;
+}
+
+.d5, .d6 {
+  width: 25%;
+}
+.d7 {
+  width: 50%;
+  order: 7;
+}
