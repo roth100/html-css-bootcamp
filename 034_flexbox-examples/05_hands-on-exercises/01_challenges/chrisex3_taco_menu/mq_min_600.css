@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  flex-flow: row;
+}
+
+nav {
+  width: 20%;
+}
+
+li {
+  display: flex;
+  flex-flow: column wrap;
+}
+main {
+  width: 80%;
+}

@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border: red solid 5px;
+  height: 100vh;
+  background-image: url(/Users/creed/Desktop/Test/html-css-bootcamp/034_flexbox-examples/05_hands-on-exercises/01_challenges/chris_ex2_centre_abovethefold/sensations.jpg);
+  background-size:cover;
+
+}
+div {
+  font-family: sans-serif;
+  font-size: 56px;
+  font-weight: bold;
+  color: white;
+}

@@ -1,0 +1,30 @@
+nav, ul, li, main, section {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav {
+  width: 100%;
+}
+
+nav, main {
+  padding: 20px;
+  border: red solid 2px;
+}
+
+ul {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+li {
+  display: inline-block;
+  flex-flow: row wrap;
+  flex-grow: 1;
+  list-style: none;
+  padding: 10px;
+
+}
