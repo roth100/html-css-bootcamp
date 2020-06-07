@@ -1,0 +1,19 @@
+body {
+  border: grey solid 2px;
+  width: 80%;
+  margin: 0 auto;
+}
+div {
+  /* display: flex;
+  flex-flow: column wrap; */
+  width: 80px;
+  height: 80px;
+  background-color: darkorange;
+  border: red 1px solid;
+  margin: 0 auto;
+}
+.relative {
+  position: relative;
+  top: 10px;
+  left: 20px;
+}

@@ -1,0 +1,18 @@
+html, body, footer {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+Body {
+  height: 6000px;
+  border: dashed grey 2px;
+}
+footer {
+  height: 30px;
+  width: 100%;
+  position: fixed;
+  border: solid 2px red;
+  background-color: darkorange;
+  bottom: 0;
+}
