@@ -1,0 +1,9 @@
+
+div {
+  height: 400px;
+  width: 600px;
+  border: gold groove 15px;
+  background-image: url(01.png);
+  background-repeat: no-repeat;
+  background-position: 300px 10px;
+}

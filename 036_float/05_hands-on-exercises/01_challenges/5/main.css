@@ -1,0 +1,15 @@
+
+nav {
+  width: 24%;
+  float: left;
+  border: black 2px solid
+}
+
+main {
+  box-sizing: border-box;
+  width: 75%;
+  padding: 20px;
+  float: right;
+  border: black 2px solid
+
+}
