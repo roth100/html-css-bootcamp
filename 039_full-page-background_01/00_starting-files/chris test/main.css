@@ -1,0 +1,22 @@
+html body {
+  padding: 0;
+  margin:0 auto;
+}
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-image: url(background-photo.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+div {
+  text-align: center;
+}
+
+a {
+  border: solid white 1px;
+  padding: 6px;
+}
