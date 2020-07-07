@@ -1,20 +1,27 @@
 div {
   font-family: 'Roboto', sans-serif;
+  color: white;
 }
 
 h1 {
+  font-size: 1.5rem;
   font-weight: normal;
-  color: white;
-  /* padding: 1rem; */
+  padding: 1.25rem;
+
+}
+h2 {
+  font-size: .75rem;
+  font-weight: normal;
+  padding:.1rem;
+
 }
 h3 {
-  padding: 1rem;
   font-size: .75rem;
   font-weight: lighter;
-  color: white;
 }
-a {
+button {
+  margin: 1rem;
   font-size: 0.65rem;
-  color:white;
   text-decoration: none;
+  color: white;
 }
