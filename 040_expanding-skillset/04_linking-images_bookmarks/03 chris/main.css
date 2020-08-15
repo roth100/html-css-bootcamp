@@ -1,0 +1,55 @@
+#top_image {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+table, td, th {
+  border: 2px solid black;
+}
+
+td, th {
+  padding:10px;
+}
+
+header {
+  display: flex;
+  flex-flow: row wrap;
+  text-align: center;
+  align-items: center;
+  justify-content: space-evenly;
+  border: lightblue 3px solid;
+  padding: 10px;
+}
+
+img {
+  width: 150px;
+  height: 100px;
+}
+a {
+  text-decoration: none;
+  font-family: sans-serif;
+  color: black;
+
+}
+
+h1 {
+  background-color: lightblue;
+  box-shadow: 1.5px 1.5px 5px grey;
+  font-family: sans-serif;
+  text-align: center;
+}
+footer {
+  height: 300px;
+}
+div:hover {
+  color: darkgrey;
+}
+div {
+  text-align: right;
+  font-size: .75rem;
+  opacity: .75;
+  margin-bottom: 2rem;
+}
